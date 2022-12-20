@@ -1,3 +1,7 @@
+Medium Blog Post: https://medium.com/@akemre_69123/this-data-analysis-will-make-you-understand-alzheimer-a-little-better-57425754d369 
+
+GitHub Link: https://github.com/Emre-Ak/AlzheimerAnalysis
+
 ## 1. Installation
 Using the anaconde distribution, the following libraries are used:
 - Pandas
